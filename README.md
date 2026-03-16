@@ -1,46 +1,45 @@
-# JAVA_CODES
+# Hi there 👋, I'm Niraj
 
-A structured collection of Java programs ranging from **Basic** to **Advanced** concepts. This repository is designed to help learners build a strong foundation in Java and progress step by step toward mastering the language.
-
----
-
-## 📂 Repository Structure
-
-### 🔹 Basic
-Contains fundamental Java programs:
-- **Conditional** → if/else, switch statements
-- **Function** → defining and using methods
-- **Loop** → for, while, do-while loops
-- **Patterns** → star and number pattern printing
-- **Basic** → entry-level examples like Hello World
-
-### 🔹 Intermediate
-Covers core Java concepts:
-- Object-Oriented Programming (classes, inheritance, polymorphism)
-- Exception Handling
-- Interfaces and Abstract Classes
-- File Handling
-
-### 🔹 Advanced
-Focuses on professional-level topics:
-- Collections Framework (List, Set, Map)
-- Generics
-- Multithreading
-- JDBC (Database Connectivity)
-- GUI Basics (Swing / JavaFX)
-- Design Patterns
+Welcome to my GitHub profile!  
+I’m passionate about **Java programming, Data Structures, and Algorithms**, and I love sharing my learning journey through clean, structured code.
 
 ---
 
-## 🎯 Purpose
-This repository aims to:
-- Provide a clear learning path from beginner to advanced Java
-- Serve as a practice resource for students and developers
-- Act as a reference for academic projects and interview preparation
+## 🚀 What I'm Working On
+- Building a complete Java learning path: **Basic → Intermediate → Advanced**
+- Exploring problem-solving with DSA
+- Creating projects that demonstrate real-world Java applications
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/niraj-codes-07/JAVA_CODES.git
+## 📂 Featured Repository
+👉 [JAVA_CODES](https://github.com/niraj-codes-07/JAVA_CODES)  
+A structured collection of Java programs:
+- **Basic** → Conditional, Functions, Loops, Patterns
+- **Intermediate** → OOP, Exception Handling, File Handling
+- **Advanced** → Collections, Multithreading, JDBC, Design Patterns
+
+---
+
+## 🛠️ Skills
+- **Languages:** Java, C, Python (beginner)
+- **Core Concepts:** OOP, DSA, Multithreading
+- **Tools:** Git, VS Code, IntelliJ IDEA
+
+---
+
+## 🌱 Currently Learning
+- Advanced Java concepts (JDBC, Generics, Design Patterns)
+- Optimizing algorithms for better performance
+- Exploring open-source contributions
+
+---
+
+## 📫 Connect With Me
+- GitHub: [@niraj-codes-07](https://github.com/niraj-codes-07)
+- LinkedIn: [@niraj-kumar](https://www.linkedin.com/in/niraj-kumar-975932249/)
+- Email: nirajk82015@gmail.com
+
+---
+
+⭐️ *“From Hello World to JDBC — documenting my Java journey one commit at a time.”*
